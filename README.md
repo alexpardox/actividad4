@@ -1,4 +1,6 @@
-**** Actividar 4 de Programacion en JAVA ****
+	************************************
+ 	Actividad #4 de Programacion en JAVA 
+  	************************************
 
 	*** Clase AddressBook.java *** 
 	
